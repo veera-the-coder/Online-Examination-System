@@ -227,9 +227,9 @@ Open browser → `http://localhost:8080/OnlineExam/`
 
 | Student | Roll No | Password |
 |---------|---------|----------|
-| Arjun Sharma | S001 | pass123 |
-| Priya Patel  | S002 | pass123 |
-| Rahul Kumar  | S003 | pass123 |
+| Swathi  | S001 | pass123 |
+| Sathya  | S002 | pass123 |
+| Veera   | S003 | pass123 |
 
 **Flow:**
 1. Login with roll number + password
